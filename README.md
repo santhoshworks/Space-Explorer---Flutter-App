@@ -1,6 +1,6 @@
-# spaceexplorer
+# Startup Name Generator
 
-A new Flutter project.
+A new Flutter project to generate random Wordpairs for startup or domain names.
 
 ## Getting Started
 
